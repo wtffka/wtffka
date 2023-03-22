@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Vyacheslav.
 
-I am a junior Java developer interested in developing the backend.
+I am Java developer interested in developing the backend.
 
 Contact me
 📧 Email: bal1337@yandex.ru
